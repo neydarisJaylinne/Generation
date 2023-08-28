@@ -1,0 +1,3 @@
+Doc de Diego Alvarado
+
+Si lees esto, no olvides hacer pull antes de hacer tus cambios, ;)
