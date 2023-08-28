@@ -1,0 +1,2 @@
+Editando mi archivo desde la terminal de bash :)
+
