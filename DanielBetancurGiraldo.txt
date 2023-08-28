@@ -15,3 +15,5 @@
 15.	git log – index.html- Busca los commits en un archivo en específico.
 16.	git log -S “Por contenido”- Buscar los commits con el contenido dentro del archivo.
 17.	git log > log.txt - guardar los logs en un archivo txt
+
+Pregunta: Como hace para ser dinamico los directorios con git al moverse entre ramas
